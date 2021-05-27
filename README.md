@@ -1,3 +1,3 @@
 # ID-GENERATOR
 ILLUSTRATES LOCAL STORAGE ACTION
-https://github.com/NwankwoKc/ID-GENERATOR/Blog.html
+https://NwankwoKc.github.io/ID-GENERATOR/Blog.html
